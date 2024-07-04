@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank cards related local4 APIs "
+  message: "Welcome to EazyBank cards related local APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
